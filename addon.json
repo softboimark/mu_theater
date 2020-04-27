@@ -1,0 +1,11 @@
+{
+	"title"		:	"mu_theater",
+	"type"		:	"map",
+	"tags"		:	[ "fun", "scenic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
