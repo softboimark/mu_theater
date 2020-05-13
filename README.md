@@ -1,3 +1,4 @@
+![img](publishing/banner.jpg)
 # About mu_theater
 A decaying and abandoned industrial building is rented out to an acting troop for their production of "East End Endeavor", but wait! Oh no! Someone has been murdered!
 
