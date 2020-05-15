@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/mu_theater/window_192x64_BaseColor"
+	$bumpmap "models/mu_theater/window_192x64_Normal"
+	$surfaceprop Metal
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+}

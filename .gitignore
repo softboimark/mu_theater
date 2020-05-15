@@ -7,7 +7,3 @@
 *.vmf_autosave
 *.unpacked
 *.nav
-/AutoSave/*
-/SourceSDK Tools/*
-/materials/*
-/models/*
